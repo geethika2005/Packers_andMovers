@@ -1,3 +1,14 @@
+#Overview
+
+Packers and Movers is a web application built using React to help users find and manage moving services efficiently.
+
+##Features
+
+>>User-friendly interface
+>>Search for moving services
+>> Booking and scheduling options
+>> Responsive design
+>>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
